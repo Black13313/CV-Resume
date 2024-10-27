@@ -37,7 +37,7 @@ const Hero = ({ theme }) => {
               Hi,
             </h1>
             <h1 className="animate-[fadeLeft_0.9s_linear] text-primary">
-              I'm <span className="text-accent">Tons</span>
+              I'm <span className="text-accent">Back</span>
             </h1>
             <p className="animate-[fadeLeft_1.1s_linear] text-center text-[1rem] leading-8 text-primary md:text-[1.4rem]">
               I have more than a year of experience as a website developer, and
@@ -53,17 +53,7 @@ const Hero = ({ theme }) => {
           </div>
           {/* Social contact */}
           <div className="flex w-full items-center justify-center gap-x-4 md:hidden">
-            <a
-              href="https://www.tiktok.com/foryou?lang=en"
-              target="blank"
-              rel="noreferrer"
-            >
-              <img
-                className="w-[35px] animate-[scaleUp_0.5s_linear] shadow-lg transition-transform hover:scale-125"
-                src={tiktok}
-                alt=""
-              />
-            </a>
+
             <a
               href="https://www.facebook.com/ton.sisouvanh"
               target="blank"

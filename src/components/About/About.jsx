@@ -40,7 +40,7 @@ const About = ({ theme }) => {
             I'm a Frontend Web Developer who specializes in building the
             front-end of websites and web applications, ensuring the success of
             the overall project. Check out some of my work in the Projects
-            section. I'm passionate about using frameworks like ReactJS for
+            section. I'm passionate about using frameworks like ReactJS and VueJS for
             front-end web development, and seeing things rendered exactly as I
             envisioned is very satisfying for me. Please feel free to connect
             with me or follow me on my social media.

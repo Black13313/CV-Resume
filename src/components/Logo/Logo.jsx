@@ -14,7 +14,7 @@ const Logo = () => {
         }  whitespace-nowrap text-xl`}
       >
         <FaLaptopCode className="text-primary text-3xl mr-1" />
-        DEVTONS.
+        DEVBACK.
       </Link>
     </>
   );

@@ -1,5 +1,4 @@
 import {
-  imgnotfound,
   cSharp,
   cpp,
   js,
@@ -14,8 +13,25 @@ import {
   vscode,
   vsstudio,
   figma,
+    getx,
+    lara,
+    ts,
+    xml,
+  docker,
+  vue,
+  flutter,
+  java,
+  php,
+  tiktok,
+  facebook,
+  github,
+  twitter,
+  githubWhite,
   reactjs,
   photoshop,
+  imgnotfound,
+  replacedAvatar
+
 } from "../assets/images";
 
 const projectData = [
@@ -106,25 +122,25 @@ const techtools = [
   {
     id: 1,
     title: "Languages",
-    toolsicons: [cpp, cSharp, js],
+    toolsicons: [js , php , java , docker , ts ,getx , lara],
     desc: "These are programming language that I have learned in school and selt taught",
   },
   {
     id: 2,
     title: "Front-end",
-    toolsicons: [html, css, js, sass, tailwindcss, reactjs],
+    toolsicons: [html, css, js, vue, xml, tailwindcss, flutter],
     desc: "These are my favourite language and framework that helps me created a lot of web app with full responsive ui. And I choose tailwind css as main one for css framewrok, it helps me get a job done faster.",
   },
   {
     id: 3,
     title: "Back-end",
-    toolsicons: [sql, mysql, mongodb, nodejs],
+    toolsicons: [ mysql, nodejs],
     desc: "I usually use these 3 database to store data. On server-side I use nodejs framework to help provide data for front-end",
   },
   {
     id: 4,
     title: "Dev-Tools",
-    toolsicons: [vsstudio, vscode, figma, photoshop],
+    toolsicons: [ vscode, figma, photoshop],
     desc: "These are my favourite tools that I have been using for development.",
   },
 ];

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Error #5xx - Jotform is not available</title>
+    <link rel="shortcut Icon" href="https://cdn.jotfor.ms/assets/img/favicons/favicon-2021.svg" />
+    <style>.w,.wi,body{display:flex}*{box-sizing:border-box;margin:0;padding:0}body{-webkit-font-smoothing:antialiased;background:linear-gradient(0deg,#f9f9ff,transparent),#fff;display:flex;flex-direction:column;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;height:100vh;text-rendering:optimizeLegibility}.w{flex:1;overflow:scroll;padding:16px 16px 0}.wi{align-items:center;flex-direction:column;justify-content:center;margin:auto;max-width:100%}.t{padding:0 32px;text-align:center}.ti{display:inline-flex;margin-bottom:40px}.t h1{color:#0a1551;font-size:32px;letter-spacing:-.672px;line-height:44px}.t p{color:#6c73a8;display:block;font-size:16px;letter-spacing:-.176px;line-height:24px;margin:16px auto 0;max-width:416px}.t p a{color:#0075e3}.l{display:flex;flex-shrink:0;justify-content:center;padding:48px 0}.jf-wrapper{display:flex;flex:1;overflow:auto;padding:16px 16px 0}.jf-wrapper--inner{align-items:center;display:flex;flex-direction:column;justify-content:center;margin:auto;max-width:100%}.jf-title{padding:0 32px;text-align:center}.jf-title--icon{display:inline-flex;margin-bottom:40px}.jf-title h1{color:#0a1551;font-size:32px;letter-spacing:-.672px;line-height:44px}.jf-title p{color:#6c73a8;display:block;font-size:16px;letter-spacing:-.176px;line-height:24px;margin-top:16px}.jf-title p.small{margin:0 auto;max-width:470px}.jf-text{background-color:#f3f3fe;border-radius:8px;margin-top:75px;max-width:100%;padding:24px 0;text-align:center;width:416px}.jf-text p{color:#343c6a;display:block;font-size:20px;font-weight:500;letter-spacing:-.34px;line-height:28px;margin-bottom:16px}.jf-text ul{list-style:none}.jf-text ul li{color:#6c73a8;font-size:14px;letter-spacing:-.084px;line-height:20px}.jf-text ul li+li{margin-top:8px}.jf-logo{display:flex;flex-shrink:0;padding:48px 0}.jf-button,.jf-logo{justify-content:center}.jf-button{align-items:center;background:transparent;border:0;border-radius:4px;color:#0075e3;cursor:pointer;display:inline-flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;font-size:14px;font-weight:500;letter-spacing:-.084px;line-height:16px;margin-top:16px;outline:0;padding:10px;width:306px}.jf-button:hover{background:#edf8ff}.jf-button img{margin-right:8px}.jf-button-link{background:#ff6100;border-radius:4px;color:#fff;cursor:pointer;font-size:14px;font-weight:500;letter-spacing:-.084px;line-height:16px;margin-top:64px;padding:12px;text-align:center;text-decoration:none;width:196px}.jf-button-link:hover{background:#e55300}@media screen and (max-width:480px){.jf-title--icon{margin-bottom:24px}.jf-title h1{font-size:28px;letter-spacing:-.588px;line-height:40px}.jf-text{margin-top:48px}.jf-logo{padding:40px 0}.ti{margin-bottom:24px}.t h1{font-size:28px;letter-spacing:-.588px;line-height:40px}.l{padding:40px 0}}</style>
+  
+
+</head>
+  <body>
+    <div class="jf-wrapper">
+      <div class="jf-wrapper--inner">
+        <div class="jf-title">
+          <div class="jf-title--icon">
+            <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODYiIGhlaWdodD0iODYiIHZpZXdCb3g9IjAgMCA4NiA4NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00MyA4Mi40MTczQzY0Ljc2OTMgODIuNDE3MyA4Mi40MTY3IDY0Ljc2OTkgODIuNDE2NyA0My4wMDA2QzgyLjQxNjcgMjEuMjMxNCA2NC43NjkzIDMuNTgzOTggNDMgMy41ODM5OEMyMS4yMzA4IDMuNTgzOTggMy41ODMzNyAyMS4yMzE0IDMuNTgzMzcgNDMuMDAwNkMzLjU4MzM3IDY0Ljc2OTkgMjEuMjMwOCA4Mi40MTczIDQzIDgyLjQxNzNaTTU2LjI4MzggMjkuNzE2OUM1Ny42ODMyIDMxLjExNjIgNTcuNjgzMiAzMy4zODUxIDU2LjI4MzggMzQuNzg0NEw0OC4wNjc2IDQzLjAwMDZMNTYuMjgzOCA1MS4yMTY4QzU3LjY4MzIgNTIuNjE2MiA1Ny42ODMyIDU0Ljg4NTEgNTYuMjgzOCA1Ni4yODQ0QzU0Ljg4NDUgNTcuNjgzOCA1Mi42MTU2IDU3LjY4MzggNTEuMjE2MiA1Ni4yODQ0TDQzIDQ4LjA2ODJMMzQuNzgzOCA1Ni4yODQ0QzMzLjM4NDUgNTcuNjgzOCAzMS4xMTU2IDU3LjY4MzggMjkuNzE2MiA1Ni4yODQ0QzI4LjMxNjkgNTQuODg1MSAyOC4zMTY5IDUyLjYxNjIgMjkuNzE2MiA1MS4yMTY4TDM3LjkzMjQgNDMuMDAwNkwyOS43MTYyIDM0Ljc4NDRDMjguMzE2OSAzMy4zODUxIDI4LjMxNjkgMzEuMTE2MiAyOS43MTYyIDI5LjcxNjlDMzEuMTE1NiAyOC4zMTc1IDMzLjM4NDUgMjguMzE3NSAzNC43ODM4IDI5LjcxNjlMNDMgMzcuOTMzMUw1MS4yMTYyIDI5LjcxNjlDNTIuNjE1NiAyOC4zMTc1IDU0Ljg4NDUgMjguMzE3NSA1Ni4yODM4IDI5LjcxNjlaIiBmaWxsPSIjREMyNjI2Ii8+Cjwvc3ZnPgo=" alt="Error Icon">
+          </div>
+          <h1>Jotform is currently unavailable</h1>
+          <p>Please try again later.</p>
+        </div>
+        <div class="jf-text">
+          <p>
+            The most likely causes:
+          </p>
+          <ul>
+            <li>The site may be experiencing excessive load</li>
+            <li>The server is down for maintenance</li>
+            <li>There may be a network problem</li>
+          </ul>
+        </div>
+        <div class="err-box" style="display:none">
+          <div class="cf-error-details cf-error-502">
+  <h1>Bad gateway</h1>
+  <p>The web server reported a bad gateway error.</p>
+  <ul>
+    <li>Ray ID: 87c03ee7dc5e8526</li>
+    <li>Your IP address: 103.43.78.108</li>
+    <li>Error reference number: 502</li>
+    <li>Cloudflare Location: Hong Kong</li>
+  </ul>
+</div>
+
+        </div>
+      </div>
+    </div>
+    <div class="jf-logo">
+      <a href="https://www.jotform.com/">
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHdpZHRoPSIxNDgiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAxNDggMjgiPjxwYXRoIGZpbGw9IiM2QzczQTgiIGQ9Ik0xOS4yOTQgMy45MzRhMy4zNDEgMy4zNDEgMCAwIDEgNC43MjcgMCAzLjM0NCAzLjM0NCAwIDAgMSAwIDQuNzI4bC0xMS44MTcgMTEuODJhMy4zNDEgMy4zNDEgMCAwIDEtNC43MjYgMCAzLjM0NCAzLjM0NCAwIDAgMSAwLTQuNzI3bDExLjgxNi0xMS44MlpNOS4yNS45OGEzLjM0NCAzLjM0NCAwIDAgMSA0LjcyNyA0LjcyOGwtOC4yNzEgOC4yNzRhMy4zNDIgMy4zNDIgMCAwIDEtNC43MjcgMCAzLjM0NCAzLjM0NCAwIDAgMSAwLTQuNzI5TDkuMjUuOThaTTE4LjcwNCAxNy41MjhhMy4zNDQgMy4zNDQgMCAwIDEgNC43MjYgNC43MjhsLTQuNzI2IDQuNzI4YTMuMzQ0IDMuMzQ0IDAgMCAxLTQuNzI3LTQuNzI4bDQuNzI3LTQuNzI4Wk0xLjY3MSAyOGg0LjY2N2MuNzQ1IDAgMS4xMTgtLjkuNTkxLTEuNDI3TDEuNDI2IDIxLjA3Qy45IDIwLjU0MiAwIDIwLjkxNSAwIDIxLjY1OXY0LjY3QzAgMjcuMjUyLjc0OCAyOCAxLjY3MSAyOFpNOTEuMjUgNi4wMmwuMjU3LjA3NlYyLjM3bC0uMTE4LS4wNTVjLS4xOC0uMDg2LS40NzEtLjE2NC0uODA3LS4yMkE3LjA4NSA3LjA4NSAwIDAgMCA4OS40MzIgMmMtMS41OTIgMC0zLjM4Mi41NDktNC4zMDkgMS41MzgtLjkyNi45ODktMS40MzcgMi4zOTgtMS40MzcgNC4wODN2Ljc4N2gtMi4zMjd2NC4yNzdoMi4zMjd2MTNoNC42N3YtMTNoMy4xNTFWOC40MDhoLTMuMTV2LS43MjdjMC0uNzU4LjI1NC0xLjE5NC41OC0xLjQ0OC4zMzUtLjI2Mi43NzUtLjM1NCAxLjE3Ny0uMzU0LjYwNCAwIC45NTQuMDg2IDEuMTM3LjE0Wk0zNy44NDcgMTcuNjI4SDMzbC4wMDMuMTg2Yy4wMzggMi4zNjMuODk2IDQuMzA5IDIuMzMyIDUuNjcyIDEuNDcgMS4zOTUgMy41NjcgMi4xOTkgNi4wNjggMi4xOTkgNS4wMDUgMCA4LjUxMS0zLjcwOCA4LjUxMS04LjE0MlYzLjY5MmgtNS4yNFYxNy40YzAgLjk5LS4zIDEuODYyLS44NzMgMi40OTItLjU3Ny42MzMtMS40MTMuOTk3LTIuNDM1Ljk5Ny0uODM3IDAtMS42NC0uMjM5LTIuMjYxLS43NTMtLjYyNS0uNTE1LTEuMDQyLTEuMjktMS4xMzYtMi4zMTdhLjIyMi4yMjIgMCAwIDAtLjA2Ny0uMTRsLS4wNTUtLjA1MlpNMTI4LjM0IDI1LjY4NWgtNC44NjVWOS4xNmg0LjY3NHYxLjMyOWMxLjA3Ny0xLjEzNyAyLjc4Ny0xLjcyMiA0LjI2NC0xLjcyMiAyLjAyNiAwIDMuNzQuODA2IDQuNjc5IDIuMzMuNTc5LS43NzEgMS4yNDQtMS4zMyAxLjk5NC0xLjcwNi44ODItLjQ0MiAxLjg2NS0uNjI0IDIuOTM0LS42MjQgMS41MDkgMCAzLjAwNy40NTcgNC4xMzIgMS40ODdDMTQ3LjI4MSAxMS4yOSAxNDggMTIuODcxIDE0OCAxNS4wNXYxMC42MzVoLTQuNzM4di05Ljc3M2MwLS44LS4xOTYtMS40NTktLjU4MS0xLjkxNC0uMzc4LS40NDYtLjk3NC0uNzM3LTEuODctLjczNy0uODE4IDAtMS40NTQuMzE0LTEuODg5LjgwNi0uNDM5LjQ5Ny0uNjg4IDEuMTkzLS42ODggMS45NzN2OS42NDVIMTMzLjR2LTkuNzczYzAtLjc5Ni0uMjAyLTEuNDU3LS41OTItMS45MTMtLjM4My0uNDQ3LS45OC0uNzM4LTEuODU4LS43MzgtLjgzOSAwLTEuNDgyLjMwOS0xLjkxOS43OTYtLjQ0MS40OTEtLjY5MSAxLjE4Ni0uNjkxIDEuOTgydjkuNjQ2WiIvPjxwYXRoIGZpbGw9IiM2QzczQTgiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTEwMC45MzQgOC43NjdjLTQuODEyIDAtOC40NTcgMy41NDItOC40NTcgOC40NTkgMCA0Ljg4NSAzLjY0NCA4LjQ1OSA4LjQ1NyA4LjQ1OSA0LjgxMyAwIDguNDU3LTMuNTc0IDguNDU3LTguNDU5IDAtNC45MTctMy42NDUtOC40NTktOC40NTctOC40NTlabTAgMTIuNTEyYy0uOTQ4IDAtMS44NS0uMzQ2LTIuNTE1LTEuMDE0LS42NjQtLjY2Ny0xLjExMi0xLjY3NS0xLjExMi0zLjAzOSAwLTEuMzguNDQ5LTIuMzg4IDEuMTExLTMuMDUuNjY0LS42NjQgMS41NjctMS4wMDMgMi41MTYtMS4wMDMuOTQ5IDAgMS44NTIuMzM5IDIuNTE2IDEuMDAzLjY2Mi42NjIgMS4xMTEgMS42NyAxLjExMSAzLjA1cy0uNDQ5IDIuMzg4LTEuMTExIDMuMDVjLS42NjQuNjY0LTEuNTY3IDEuMDAzLTIuNTE2IDEuMDAzWk02MC4yNDIgOC43NjdjLTQuODEzIDAtOC40NTcgMy41NDItOC40NTcgOC40NTkgMCA0Ljg4NSAzLjY0NCA4LjQ1OSA4LjQ1NyA4LjQ1OSA0LjgxMyAwIDguNDU3LTMuNTc0IDguNDU3LTguNDU5IDAtNC45MTctMy42NDUtOC40NTktOC40NTctOC40NTlabTAgMTIuNTEyYy0uOTQ4IDAtMS44NS0uMzQ2LTIuNTE2LTEuMDE0LS42NjMtLjY2Ny0xLjExLTEuNjc1LTEuMTEtMy4wMzkgMC0xLjM4LjQ0Ny0yLjM4OCAxLjExLTMuMDUuNjY0LS42NjQgMS41NjYtMS4wMDMgMi41MTYtMS4wMDNzMS44NTEuMzM5IDIuNTE2IDEuMDAzYy42NjIuNjYyIDEuMTEgMS42NyAxLjExIDMuMDVzLS40NDggMi4zODgtMS4xMSAzLjA1Yy0uNjY1LjY2NC0xLjU2NyAxLjAwMy0yLjUxNiAxLjAwM1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjxwYXRoIGZpbGw9IiM2QzczQTgiIGQ9Ik0xMjEuNjAxIDguODYzdjUuMDQzbC0uMzc5LS4wNzhhNS45IDUuOSAwIDAgMC0xLjIwNi0uMTI0Yy0xLjAzMiAwLTEuOTQ5LjI1Ny0yLjYwNy44OC0uNjUzLjYyLTEuMTA0IDEuNjUyLTEuMTA0IDMuMzE3djcuNzg0aC00Ljg1MlY4Ljg0OWg0LjcyNXYxLjYyNWMxLjE2OS0xLjQzIDIuOTg0LTEuNzA3IDQuMTIzLTEuNzA3LjM2NSAwIC42OTUuMDM0IDEuMDA5LjA2NmwuMjkxLjAzWk03OS45NTYgMjEuNTg3bC0uMjU3LjA3NmMtLjE4Mi4wNTQtLjUzMy4xNC0xLjEzOC4xNC0uNDAyIDAtLjg0My0uMDkyLTEuMTc4LS4zNTQtLjMyNi0uMjU0LS41OC0uNjktLjU4LTEuNDQ4di03LjQ2NGgzLjE1M1Y4LjI5NWgtMy4xNTNWMy42OTJoLTQuNjY2djQuNjAzaC0yLjMzdjQuMjQyaDIuMzN2Ny41MjNjMCAxLjY4Ny41MTEgMy4wOTcgMS40MzkgNC4wODYuOTI4Ljk5IDIuNzEgMS41MzkgNC4zMDQgMS41MzlhNy4xIDcuMSAwIDAgMCAxLjE1LS4wOTVjLjMzNi0uMDU3LjYyNy0uMTM0LjgwOC0uMjJsLjExOC0uMDU2di0zLjcyN1oiLz48L3N2Zz4=" alt="Back to Jotform.com">
+      </a>
+    </div>
+    <script type="text/javascript">setTimeout((function(){window.location.reload(1)}),5e3);</script>
+  </body>
+</html>
+
